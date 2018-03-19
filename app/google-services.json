@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "693487183650",
+    "firebase_url": "https://fir-notificationv2.firebaseio.com",
+    "project_id": "fir-notificationv2",
+    "storage_bucket": "fir-notificationv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693487183650:android:3dc9e9bc7659d52f",
+        "android_client_info": {
+          "package_name": "com.example.larrouturoumaxime.firebasenotificationv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693487183650-4biagct46hsm10ll4924brnrbtg9t9vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxgw3xuftmpdPVj4j64z-hNrgGHja1dPU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
